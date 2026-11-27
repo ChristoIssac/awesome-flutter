@@ -191,6 +191,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1290⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [303⭐] - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 - [PlutoGrid](https://github.com/bosskmk/pluto_grid) [725⭐] - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
+- [Syncfusion Flutter DataGrid](https://www.syncfusion.com/flutter-widgets/flutter-datagrid) - Data grid with sorting, filtering, grouping, editing and Excel/PDF export by [Syncfusion](https://www.syncfusion.com).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [847⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) [456⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [3206⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
@@ -251,6 +252,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [1937⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 - [Time Planner](https://github.com/Jamalianpour/time_planner) [238⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour).
+- [Syncfusion Flutter Calendar](https://www.syncfusion.com/flutter-widgets/flutter-calendar) - Appointments calendar with day, week, month, schedule and timeline views by [Syncfusion](https://www.syncfusion.com).
 
 #### Backend-Driven
 
@@ -281,6 +283,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [270⭐] - Interactive, customizable vector maps by Mapbox.
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) [540⭐] - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project).
 - [Map](https://github.com/xclud/flutter_map) [139⭐] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/).
+- [Syncfusion Flutter Maps](https://www.syncfusion.com/flutter-widgets/flutter-maps) - Shape and tile maps with markers, bubbles, legends and zooming by [Syncfusion](https://www.syncfusion.com).
 
 ### Charts
 
@@ -292,6 +295,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) [451⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper).
 - [Echarts](https://github.com/entronad/flutter_echarts) [765⭐] - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad).
 - [Graphic](https://github.com/entronad/graphic) [1737⭐] - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad).
+- [Syncfusion Flutter Charts](https://www.syncfusion.com/flutter-widgets/flutter-charts) - 30+ animated, interactive cartesian, circular and spark chart types by [Syncfusion](https://www.syncfusion.com).
 
 ### Navigation
 
